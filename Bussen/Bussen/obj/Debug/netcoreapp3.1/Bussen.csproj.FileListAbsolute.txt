@@ -1,0 +1,13 @@
+C:\Users\Marti\source\repos\Bussen\Bussen\obj\Debug\netcoreapp3.1\Bussen.csprojAssemblyReference.cache
+C:\Users\Marti\source\repos\Bussen\Bussen\obj\Debug\netcoreapp3.1\Bussen.AssemblyInfoInputs.cache
+C:\Users\Marti\source\repos\Bussen\Bussen\obj\Debug\netcoreapp3.1\Bussen.AssemblyInfo.cs
+C:\Users\Marti\source\repos\Bussen\Bussen\obj\Debug\netcoreapp3.1\Bussen.csproj.CoreCompileInputs.cache
+C:\Users\Marti\source\repos\Bussen\Bussen\bin\Debug\netcoreapp3.1\Bussen.exe
+C:\Users\Marti\source\repos\Bussen\Bussen\bin\Debug\netcoreapp3.1\Bussen.deps.json
+C:\Users\Marti\source\repos\Bussen\Bussen\bin\Debug\netcoreapp3.1\Bussen.runtimeconfig.json
+C:\Users\Marti\source\repos\Bussen\Bussen\bin\Debug\netcoreapp3.1\Bussen.runtimeconfig.dev.json
+C:\Users\Marti\source\repos\Bussen\Bussen\bin\Debug\netcoreapp3.1\Bussen.dll
+C:\Users\Marti\source\repos\Bussen\Bussen\bin\Debug\netcoreapp3.1\Bussen.pdb
+C:\Users\Marti\source\repos\Bussen\Bussen\obj\Debug\netcoreapp3.1\Bussen.dll
+C:\Users\Marti\source\repos\Bussen\Bussen\obj\Debug\netcoreapp3.1\Bussen.pdb
+C:\Users\Marti\source\repos\Bussen\Bussen\obj\Debug\netcoreapp3.1\Bussen.genruntimeconfig.cache
